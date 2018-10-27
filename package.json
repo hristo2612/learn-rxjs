@@ -1,0 +1,32 @@
+{
+  "name": "learn-rxjs",
+  "version": "1.0.0",
+  "description": "Learning functional programming..",
+  "main": "index.js",
+  "scripts": {
+    "01": "node ./01-Traverse-Array/traverse-array",
+    "02": "node ./02-Use-ForEach/forEach",
+    "03": "node ./03-Project-an-Array/projectArray",
+    "04": "node ./04-Implement-Map/map",
+    "05": "node ./05-Use-Map/useMap",
+    "06": "node ./06-Filter-Array-with-ForEach/forEachFilter",
+    "07": "node ./07-Implement-Filter/filter",
+    "08": "node ./08-Chain-Methods/chainMethods",
+    "09": "node ./09-Flatten-Movie-Lists/flattenMovieLists",
+    "10": "node ./10-Implement-ConcatAll/concatAll",
+    "11": "node ./11-Use-Map-and-ConcatAll/useMapAndConcatAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristo2612/learn-rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hristo2612/learn-rxjs/issues"
+  },
+  "homepage": "https://github.com/hristo2612/learn-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
