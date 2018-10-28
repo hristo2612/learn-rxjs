@@ -1,0 +1,3 @@
+# Use map() and concatAll() to project and flatten the movieLists into an array of video ids
+
+Mastering the combination of map() and concatAll() is key to effective functional programming. You're half way there! Let's try a more complicated example...
