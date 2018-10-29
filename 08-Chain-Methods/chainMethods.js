@@ -1,3 +1,6 @@
+Array.prototype.map = require('../Implementations/map');
+Array.prototype.filter = require('../Implementations/filter');
+
 function chainMethods() {
 	var newReleases = [
 		{
@@ -35,7 +38,7 @@ function chainMethods() {
 	];
 
     return newReleases
-        .filter((video) => { 
+        .filter((video) => {
             return video.rating === 5.0;
         })
         .map((video) => { 

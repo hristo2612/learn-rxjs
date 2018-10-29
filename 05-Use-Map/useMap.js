@@ -1,3 +1,5 @@
+Array.prototype.map = require('../Implementations/map');
+
 function useMap() {
 	var newReleases = [
 			{
