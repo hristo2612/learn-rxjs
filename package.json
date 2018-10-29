@@ -14,7 +14,9 @@
     "08": "node ./08-Chain-Methods/chainMethods",
     "09": "node ./09-Flatten-Movie-Lists/flattenMovieLists",
     "10": "node ./10-Implement-ConcatAll/concatAll",
-    "11": "node ./11-Use-Map-and-ConcatAll/useMapAndConcatAll"
+    "11": "node ./11-Use-Map-and-ConcatAll/useMapAndConcatAll",
+    "12": "node ./12-Use-Map-filter-concatAll/useMapFilterConcatAll",
+    "13": "node ./13-Implement-ConcatMap/concatMap"
   },
   "repository": {
     "type": "git",
