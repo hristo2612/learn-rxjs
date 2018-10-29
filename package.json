@@ -17,7 +17,9 @@
     "11": "node ./11-Use-Map-and-ConcatAll/useMapAndConcatAll",
     "12": "node ./12-Use-Map-filter-concatAll/useMapFilterConcatAll",
     "13": "node ./13-Implement-ConcatMap/concatMap",
-    "14": "node ./14-Use-ConcatMap/useConcatMap"
+    "14": "node ./14-Use-ConcatMap/useConcatMap",
+    "15": "node ./15-Reducing-with-ForEach/reducingWithForEach",
+    "16": "node ./16-Implement-Reduce/reduce"
   },
   "repository": {
     "type": "git",
