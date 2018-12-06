@@ -19,7 +19,8 @@
     "13": "node ./13-Implement-ConcatMap/concatMap",
     "14": "node ./14-Use-ConcatMap/useConcatMap",
     "15": "node ./15-Reducing-with-ForEach/reducingWithForEach",
-    "16": "node ./16-Implement-Reduce/reduce"
+    "16": "node ./16-Implement-Reduce/reduce",
+    "17": "node ./17-Retrieve-Largest-Rating/largestRating"
   },
   "repository": {
     "type": "git",
