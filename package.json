@@ -20,7 +20,8 @@
     "14": "node ./14-Use-ConcatMap/useConcatMap",
     "15": "node ./15-Reducing-with-ForEach/reducingWithForEach",
     "16": "node ./16-Implement-Reduce/reduce",
-    "17": "node ./17-Retrieve-Largest-Rating/largestRating"
+    "17": "node ./17-Retrieve-Largest-Rating/largestRating",
+    "18": "node ./18-Retrieve-Url-Of-Largest-Boxart/retrieveUrl"
   },
   "repository": {
     "type": "git",
